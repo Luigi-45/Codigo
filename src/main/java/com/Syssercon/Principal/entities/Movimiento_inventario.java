@@ -27,7 +27,7 @@ public class Movimiento_inventario {
     private String tipo_movimiento;
     private int cantidad;
     private Date fecha_hora;
-    private int insumo_id;
-    private int producto_id;
+    private String tipo_unidad;
+    private String Nombre;
     
 }
